@@ -38,6 +38,7 @@ Built with Rust, Tauri 2, React and TypeScript. Kairos is not affiliated with Mo
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Kokosek-Dev/Kokosek-Dev.github.io/main/img/hush-2.jpg" alt="The monster of HUSH" width="100%"><br>
       <b>HUSH</b> (Roblox, in development)<br>
       A co-op horror game where a blind monster hunts only by sound. Footsteps, doors, chat and even your real voice make noise. Lobby with elevators, security cameras, VR support (experimental). A Python generator builds the map and the monster AI is tested offline.<br>
       <sub>Luau · Python · Rojo</sub>
