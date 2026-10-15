@@ -33,6 +33,35 @@ Built with Rust, Tauri 2, React and TypeScript. Kairos is not affiliated with Mo
 
 [Download](https://github.com/Kokosek-Dev/Kairos/releases/latest) · [Website](https://kokosek-dev.github.io/Kairos/) · [Ideas and bugs](https://github.com/Kokosek-Dev/Kairos/issues)
 
+## More of my work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>HUSH</b> (Roblox, in development)<br>
+      A co-op horror game where a blind monster hunts only by sound. Footsteps, doors, chat and even your real voice make noise. Lobby with elevators, security cameras, VR support (experimental). A Python generator builds the map and the monster AI is tested offline.<br>
+      <sub>Luau · Python · Rojo</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Kokosek-Dev/Kokosek-Dev.github.io/main/img/voidforged-items.png" alt="Voidforged item icons" width="100%"><br>
+      <b>Voidforged</b> (Fabric mod, in development, placeholder art)<br>
+      Enderite gear, a Void Elytra with a dash, custom enchantments, a new End biome with its own wood and food, parkour temples and a JSON config.<br>
+      <sub>Java · Fabric · Minecraft 1.21.11</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Discord Maker</b> (private tool)<br>
+      A Discord bot that builds a whole server from a description: roles, channels, rules and welcome posts, with a preview you can edit before it builds.<br>
+      <sub>Python · discord.py</sub>
+    </td>
+    <td valign="top">
+      <b>Order something</b><br>
+      Bots, scripts, scrapers, C++ programs, Roblox and Unity games. <a href="https://kokosek-dev.github.io/#projects">See the full portfolio</a> or <a href="https://kokosek-dev.github.io/#order">send a request</a>.
+    </td>
+  </tr>
+</table>
+
 ## Tech I work with
 
 Python · C++ · Rust · TypeScript · React · C# (Unity) · Luau (Roblox) · Java (Fabric mods) · Tailwind CSS · Git and GitHub Actions
