@@ -39,4 +39,4 @@ Python · C++ · Rust · TypeScript · React · C# (Unity) · Luau (Roblox) · J
 
 Found a bug or have an idea for Kairos? Open an issue, or use the feedback button inside the launcher. Want something built? [Order it here](https://kokosek-dev.github.io/#order).
 
-💬 **Discord:** [my server](
+💬 **Discord:** [my server](https://discord.gg/hnamqRYsdn) (projects, coding help, commissions) · [Kairos server](https://discord.gg/H3Mecyf3H9) (support and updates)
