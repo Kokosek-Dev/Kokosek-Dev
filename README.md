@@ -5,6 +5,7 @@ I write code for fun and for other people: bots, scripts, scrapers, games and de
 ## What I make
 
 - 🐍 **Python**: Discord bots, automation scripts, scrapers
+- ⚙️ **C++**: fast desktop programs, command-line tools, plugins
 - 🎮 **Games** in **Roblox Studio** (Luau) and **Unity** (C#, 2D and 3D)
 - 🛠️ **Apps and tools** in Rust, TypeScript and React, plus Minecraft mods
 
@@ -32,7 +33,7 @@ Built with Rust, Tauri 2, React and TypeScript. Kairos is not affiliated with Mo
 
 ## Tech I work with
 
-Python · Rust · TypeScript · React · C# (Unity) · Luau (Roblox) · Java (Fabric mods) · Tailwind CSS · Git and GitHub Actions
+Python · C++ · Rust · TypeScript · React · C# (Unity) · Luau (Roblox) · Java (Fabric mods) · Tailwind CSS · Git and GitHub Actions
 
 ## Say hi
 
