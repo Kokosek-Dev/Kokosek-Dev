@@ -2,7 +2,7 @@
 
 I write code for fun and for other people: bots, scripts, scrapers, games and desktop tools.
 
-[![Discord](https://img.shields.io/badge/Discord-my%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/hnamqRYsdn) [![Kairos](https://img.shields.io/badge/Discord-Kairos%20server-2da8ff?logo=discord&logoColor=white)](https://discord.gg/H3Mecyf3H9) [![Order](https://img.shields.io/badge/Order-something-19d3b0)](https://kokosek-dev.github.io/#order) [![Website](https://img.shields.io/badge/Website-kokosek--dev.github.io-555)](https://kokosek-dev.github.io/)
+[![Discord](https://img.shields.io/badge/Discord-my%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/hnamqRYsdn) [![Kairos](https://img.shields.io/badge/Discord-Kairos%20server-2da8ff?logo=discord&logoColor=white)](https://discord.gg/H3Mecyf3H9) [![Order](https://img.shields.io/badge/Order-something-19d3b0)](https://kokosek-dev.github.io/#order) [![Discord Maker](https://img.shields.io/badge/Discord%20Maker-try%20it-f59e0b)](https://kokosek-dev.github.io/discord-maker/) [![Website](https://img.shields.io/badge/Website-kokosek--dev.github.io-555)](https://kokosek-dev.github.io/)
 
 ## What I make
 
@@ -52,9 +52,9 @@ Built with Rust, Tauri 2, React and TypeScript. Kairos is not affiliated with Mo
   </tr>
   <tr>
     <td valign="top">
-      <b>Discord Maker</b> (private tool)<br>
+      <b><a href="https://kokosek-dev.github.io/discord-maker/">Discord Maker</a></b> (free tool, <a href="https://kokosek-dev.github.io/discord-maker/">try it</a>)<br>
       A Discord bot that builds a whole server from a description: roles, channels, rules and welcome posts, with a preview you can edit before it builds.<br>
-      <sub>Python · discord.py</sub>
+      <sub>Python · FastAPI · Discord API</sub>
     </td>
     <td valign="top">
       <b>Order something</b><br>
